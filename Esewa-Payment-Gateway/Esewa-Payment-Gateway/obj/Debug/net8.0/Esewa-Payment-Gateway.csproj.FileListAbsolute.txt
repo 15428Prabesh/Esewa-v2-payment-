@@ -1,0 +1,36 @@
+D:\Esewa\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\bin\Debug\net8.0\Esewa-Payment-Gateway.deps.json
+D:\Esewa\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\bin\Debug\net8.0\Esewa-Payment-Gateway.dll
+D:\Esewa\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\bin\Debug\net8.0\Esewa-Payment-Gateway.pdb
+D:\Esewa\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.csproj.AssemblyReference.cache
+D:\Esewa\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Esewa\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.AssemblyInfoInputs.cache
+D:\Esewa\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.AssemblyInfo.cs
+D:\Esewa\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.csproj.CoreCompileInputs.cache
+D:\Esewa\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.dll
+D:\Esewa\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\refint\Esewa-Payment-Gateway.dll
+D:\Esewa\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.pdb
+D:\Esewa\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\ref\Esewa-Payment-Gateway.dll
+D:\PaymentGateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\bin\Debug\net8.0\Esewa-Payment-Gateway.deps.json
+D:\PaymentGateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\bin\Debug\net8.0\Esewa-Payment-Gateway.dll
+D:\PaymentGateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\bin\Debug\net8.0\Esewa-Payment-Gateway.pdb
+D:\PaymentGateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.csproj.AssemblyReference.cache
+D:\PaymentGateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\PaymentGateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.AssemblyInfoInputs.cache
+D:\PaymentGateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.AssemblyInfo.cs
+D:\PaymentGateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.csproj.CoreCompileInputs.cache
+D:\PaymentGateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.dll
+D:\PaymentGateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\refint\Esewa-Payment-Gateway.dll
+D:\PaymentGateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.pdb
+D:\PaymentGateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\ref\Esewa-Payment-Gateway.dll
+D:\Esewa\New folder\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\bin\Debug\net8.0\Esewa-Payment-Gateway.deps.json
+D:\Esewa\New folder\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\bin\Debug\net8.0\Esewa-Payment-Gateway.dll
+D:\Esewa\New folder\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\bin\Debug\net8.0\Esewa-Payment-Gateway.pdb
+D:\Esewa\New folder\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.csproj.AssemblyReference.cache
+D:\Esewa\New folder\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Esewa\New folder\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.AssemblyInfoInputs.cache
+D:\Esewa\New folder\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.AssemblyInfo.cs
+D:\Esewa\New folder\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.csproj.CoreCompileInputs.cache
+D:\Esewa\New folder\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.dll
+D:\Esewa\New folder\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\refint\Esewa-Payment-Gateway.dll
+D:\Esewa\New folder\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\Esewa-Payment-Gateway.pdb
+D:\Esewa\New folder\Esewa-Payment-Gateway\Esewa-Payment-Gateway\Esewa-Payment-Gateway\obj\Debug\net8.0\ref\Esewa-Payment-Gateway.dll

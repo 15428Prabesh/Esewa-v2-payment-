@@ -1,0 +1,17 @@
+﻿@{
+	ViewData["Title"] = "Success Page";
+}
+
+<div class="text-center">
+	<h1 class="display-4">Payment Success</h1>
+</div>
+<form method="post">
+	<p>Success With Esewa</p>
+	<input class="img-payment-method" type="" src="./img/Esewa logo.png" alt="Success with Esewa" asp-controller="Home"
+		   asp-action="SuccessWithEsewa">
+</form>
+
+@if (ViewBag.Message != null)
+{
+	<label>@ViewBag.Message </label>
+}

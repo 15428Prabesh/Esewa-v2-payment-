@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Esewa-Payment-Gateway-Demo.props" />
+</Project>

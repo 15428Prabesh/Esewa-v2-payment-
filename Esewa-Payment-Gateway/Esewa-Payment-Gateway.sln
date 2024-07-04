@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esewa-Payment-Gateway", "Esewa-Payment-Gateway\Esewa-Payment-Gateway.csproj", "{C73E353A-D72C-478E-AE8D-4A875EAADED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esewa-Payment-Gateway-Demo", "..\Esewa-Payment-Gateway-Demo\Esewa-Payment-Gateway-Demo.csproj", "{B744ACD0-BD7F-4BC2-80B0-1D4EFA6C5573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C73E353A-D72C-478E-AE8D-4A875EAADED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73E353A-D72C-478E-AE8D-4A875EAADED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73E353A-D72C-478E-AE8D-4A875EAADED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73E353A-D72C-478E-AE8D-4A875EAADED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B744ACD0-BD7F-4BC2-80B0-1D4EFA6C5573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B744ACD0-BD7F-4BC2-80B0-1D4EFA6C5573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B744ACD0-BD7F-4BC2-80B0-1D4EFA6C5573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B744ACD0-BD7F-4BC2-80B0-1D4EFA6C5573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A73CBB6A-351B-40A6-8A92-CC3FE9540FE2}
+	EndGlobalSection
+EndGlobal
